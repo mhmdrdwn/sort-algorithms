@@ -9,3 +9,5 @@ Implementations of different algorithms: https://github.com/mhmdrdwn/sort-algori
 Benchmark setup: https://github.com/mhmdrdwn/sort-algorithms/blob/main/code/run_benchmarks.py
 
 Visualization of results: https://github.com/mhmdrdwn/sort-algorithms/blob/main/analysis/visualize.ipynb
+
+Analytical interpretation: https://github.com/mhmdrdwn/sort-algorithms/blob/main/analysis/nr_comparisons.ipynb
