@@ -1,6 +1,6 @@
 # INF221 Term Paper Team 45
 
-Term paper on benchmarking sorting algorithm
+Term paper on benchmarking sorting algorithm, This article is part of INF221 course at NMBU
 
 Final report: https://github.com/mhmdrdwn/sort-algorithms/blob/main/report/term_paper.pdf
 
